@@ -65,14 +65,8 @@
         </picture>
   </a>
 </p>
-
-<br />
 </p>
 <hr />
-
-
-
-  <hr />
 
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
