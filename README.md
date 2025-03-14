@@ -7,7 +7,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sampurna!;&center=true&size=30">
     </a>
   </h1>
-  <img alt="Coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" style="vertical-align: middle; margin-left: 10px;" />
+  <img alt="Coding" width="250" height="250" src="https://media.licdn.com/dms/image/v2/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1694701932900?e=1747267200&v=beta&t=WjWGh7DCYL4BOOB5uP2vZ92zxr9feWNuPF-SAea5PCI" style="vertical-align: middle; margin-left: 10px;" />
 </div>
 
 
